@@ -1,2 +1,8 @@
 # GOAT
-CAD part and assembly files for the GOAT jumping robot leg
+CAD part and assembly files for the GOAT jumping robot leg. This repo also contains some basic FEA analysis on several of the components to verify structural integrity. 
+
+If these files are referenced or used in any way please reference my IROS 2017 paper or Thesis:
+
+S. Kalouche. "GOAT: A Legged Robot with 3D Agility and Virtual Compliance." IEEE 2017 International Conference on Intelligent Robotics and Systems (IROS), Vancouver, Canada, 2017. 
+
+Simon Kalouche. Design for 3D agility and virtual compliance using proprioceptive force control in dynamic legged robots. Masters thesis, Robotics Institute, Carnegie Mellon University, 2016.
